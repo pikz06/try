@@ -1,0 +1,2 @@
+TestCaseName	TestCaseDescription	Browser	Execute	Iteration	Data						
+TC01_Login	Enter UserId and Password	chrome	true 	1	URL:=  http://www.demo.guru99.com/V4/	UserName:= mngr273804	Password:=muhavub				
